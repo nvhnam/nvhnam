@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m excited with **Backend Development, Infomation Security, System Infrastructure**
+ 🔭 Excited about **Backend Development, Infomation Security, System Infrastructure**
  
  🌱 I’m currently learning **AWS, Microservices, DSA**
 
