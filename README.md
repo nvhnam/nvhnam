@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Backend Development using Spring Boot**
+ 🔭 I’m excited with **Backend Development, Infomation Security, System Infrastructure**
  
  🌱 I’m currently learning **AWS, Microservices, DSA**
 
