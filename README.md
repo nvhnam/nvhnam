@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 Excited about **Backend Development, Infomation Security, System Infrastructure**
+ 🔭 Excited about **Frontend Development, Infomation Security, AI**
  
- 🌱 I’m currently learning **AWS, Microservices, DSA**
+ 🌱 I’m currently learning **AWS, Reactjs, DSA**
 
  </div>
  
