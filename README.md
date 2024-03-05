@@ -12,7 +12,7 @@
  
  🔭 Excited about **Frontend Development, Infomation Security, AI**
  
- 🌱 I’m currently learning **AWS, Reactjs, DSA**
+ 🌱 I’m currently learning **AWS, Reactjs, Deep learning**
 
  </div>
  
@@ -27,7 +27,7 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Coding-Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Coding-Languages-Frameworks-Library-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,react,spring,java,aws,mysql,vscode,eclipse,github" />
