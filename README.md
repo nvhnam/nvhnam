@@ -12,7 +12,7 @@
  
  🔭 Excited about **AI, Network Security, Software Development**
  
- 🌱 I’m currently learning **Deep Learning, Cloud Computing and Data Security**
+ 🌱 I’m currently study about **Deep Learning, Cloud Computing and Data Security**
 
  </div>
  
