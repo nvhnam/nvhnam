@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 Excited about **AI, Network Security**
+ 🔭 Excited about **AI, Network Security, Software Development**
  
- 🌱 I’m currently learning **Deep Learning, Cloud Computing and Networking**
+ 🌱 I’m currently learning **Deep Learning, Cloud Computing and Data Security**
 
  </div>
  
